@@ -5,7 +5,6 @@
 I build modern web applications and enjoy working across the full stack.  
 I also explore IoT, OCR, and computer vision projects using Raspberry Pi.
 
----
 
 ## 🚀 What I'm Working On
 - MERN stack projects (NewsHub, Wanderlust, Grocery App)
@@ -13,7 +12,6 @@ I also explore IoT, OCR, and computer vision projects using Raspberry Pi.
 - Oracle SQL (TCS Xplore)
 - Occasional IoT & ML experiments (OCR, face recognition, CV)
 
----
 
 ## 🛠️ Tools & Technologies
 **Web:** React.js, Node.js, Express.js, MongoDB, Tailwind  
@@ -21,7 +19,6 @@ I also explore IoT, OCR, and computer vision projects using Raspberry Pi.
 **Other:** OpenCV, Raspberry Pi, ESP8266  
 **Tools:** VS Code, Git, Postman, Figma
 
----
 
 ## 📫 Contact Me
 - **Email:** adithyasreenath005@gmail.com  
