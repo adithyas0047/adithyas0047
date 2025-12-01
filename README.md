@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adithya S
+## 👋 Hi, I'm Adithya S
 
 I build modern web applications and enjoy working across the full stack.  
 I also explore IoT, OCR, and computer vision projects using Raspberry Pi.
