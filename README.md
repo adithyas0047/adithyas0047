@@ -14,10 +14,10 @@ I also explore IoT, OCR, and computer vision projects using Raspberry Pi.
 
 
 ## 🛠️ Tools & Technologies
-- **Web:** React.js, Node.js, Express.js, MongoDB, Tailwind  
-- **Languages:** JavaScript, Python, Java, C/C++  
+- **Web:** React.js, Node.js, Express.js, MongoDB, Bootstrap  
+- **Languages:** JavaScript, Python, Java 
 - **Other:** OpenCV, Raspberry Pi, ESP8266  
-- **Tools:** VS Code, Git, Postman, Figma
+- **Tools:** VS Code, Git, Hoppscotch (Api testing tool)
 
 
 ## 📫 Contact Me
