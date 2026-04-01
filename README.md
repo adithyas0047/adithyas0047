@@ -4,7 +4,7 @@ I’m an ECE student skilled in both full-stack development and Software Testing
 I am currently working on: 
 - Manual Testing & Automation (Selenium + TestNG)
 - MERN Stack Development (React, Node, MongoDB)
-- Oracle SQL (TCS Xplore)
+- Oracle SQL 
 - Occasional IoT & ML experiments (OCR, face recognition, CV)
 
 Tool and technologies I work with: 
