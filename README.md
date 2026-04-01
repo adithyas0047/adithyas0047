@@ -1,13 +1,14 @@
 # Hi, I'm Adithya 👋
-I build modern web applications and enjoy working across the full stack. I also explore IoT, OCR, and computer vision projects using Raspberry Pi.
+I’m an ECE student skilled in both full-stack development and Software Testing (Manual + Automation), with a strong foundation in building and testing scalable web applications.
 
 I am currently working on: 
-- MERN stack projects (NewsHub, Wanderlust, Grocery App)
-- Improving my portfolio & UI/UX skills
+- Manual Testing & Automation (Selenium + TestNG)
+- MERN Stack Development (React, Node, MongoDB)
 - Oracle SQL (TCS Xplore)
 - Occasional IoT & ML experiments (OCR, face recognition, CV)
 
 Tool and technologies I work with: 
+- **Testing:** Selenium WebDriver, TestNG, Extent Reports
 - **Web:** React.js, Node.js, Express.js, MongoDB, Bootstrap
 - **Languages:** JavaScript, Python, Java
 - **Other:** OpenCV, Raspberry Pi, ESP8266
